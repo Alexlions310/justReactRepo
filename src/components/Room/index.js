@@ -10,7 +10,7 @@ const Room = () => {
             <img className='hotelPic' src={room} alt="room" />
             <p className='price'>price - 500 EURO</p>
             <p className='numOfRooms'> Number of rooms: 3</p>
-            <Button>Book your room now</Button>
+            <Button borderRadius='22px' margin='0px' fontSize='23px'>Book your room now</Button>
         </div>
     )
 }

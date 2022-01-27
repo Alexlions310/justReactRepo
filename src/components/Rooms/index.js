@@ -5,7 +5,7 @@ import './index.css'
 
 const Rooms = () => {
     return (
-        <div className='rooms_container'>
+        <div id='Rooms' className='rooms_container'>
            <h1 className='roomsHeading'>Rooms</h1>
            <Room/>
         </div>
