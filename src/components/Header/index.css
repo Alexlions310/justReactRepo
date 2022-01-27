@@ -1,0 +1,25 @@
+.link{
+    font-family: sans-serif;
+    color: #a020f0;
+    font-size: 25.4px;
+    font-weight: bold;
+    text-decoration:none;
+}
+
+.link:hover{
+    text-decoration: underline;
+}
+
+.header_container{
+    display: flex;
+    margin-top: 30px;
+}
+.left{
+    width: 50%;
+}
+.right{
+    width: 50%;
+}
+.right .link {
+   padding-left: 15%;   
+}

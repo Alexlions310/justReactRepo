@@ -1,0 +1,36 @@
+.content_container{
+    display: flex;
+    margin-top: 8%;
+}
+.left{
+    font-family: sans-serif;
+    color: #a020f0;
+    font-weight: bold;
+    width: 500px;
+    margin-right: 5%;
+}
+.hotelName{
+    margin-top: 0px;
+    
+}
+.hotelP{
+    letter-spacing: 2px;
+}
+
+.starIcon{
+    margin-left:20px;
+    margin-bottom:3px;
+    font-size: 15px;
+}
+
+.hotelPic{
+    width: 85%;
+    height: 94%;
+}
+/* @media only screen and (max-width: 1000px) {
+    .starIcon{
+        margin-left:2px;
+        margin-bottom:3px;
+        font-size: 15px;
+    }
+} */
